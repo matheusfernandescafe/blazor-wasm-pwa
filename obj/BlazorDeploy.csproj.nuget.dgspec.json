@@ -22,24 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-<<<<<<< HEAD
           "net10.0"
-=======
-          "net8.0"
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-<<<<<<< HEAD
           "net10.0": {
             "targetAlias": "net10.0",
-=======
-          "net8.0": {
-            "targetAlias": "net8.0",
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
             "projectReferences": {}
           }
         },
@@ -51,7 +42,6 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-<<<<<<< HEAD
           "auditMode": "all"
         },
         "SdkAnalysisLevel": "10.0.100"
@@ -69,51 +59,27 @@
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[10.0.1, )"
-=======
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
-              "target": "Package",
-              "version": "[8.0.22, )"
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
             },
             "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
               "suppressParent": "All",
               "target": "Package",
-<<<<<<< HEAD
               "version": "[10.0.1, )"
             },
             "Microsoft.DotNet.HotReload.WebAssembly.Browser": {
               "target": "Package",
               "version": "[10.0.101, )",
               "autoReferenced": true
-=======
-              "version": "[8.0.22, )"
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-<<<<<<< HEAD
               "version": "[10.0.1, )",
-=======
-              "version": "[8.0.22, )",
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-<<<<<<< HEAD
               "version": "[10.0.1, )",
-=======
-              "version": "[8.0.22, )",
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
               "autoReferenced": true
             }
           },
@@ -131,11 +97,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-<<<<<<< HEAD
               "version": "[10.0.1, 10.0.1]"
-=======
-              "version": "[8.0.22, 8.0.22]"
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
             }
           ],
           "frameworkReferences": {
@@ -143,7 +105,6 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
@@ -419,9 +380,6 @@
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
           }
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
->>>>>>> a9cdce8252d257944ae71ba584ccb9ae048bff90
         }
       },
       "runtimes": {
